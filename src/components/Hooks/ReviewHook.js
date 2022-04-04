@@ -4,7 +4,7 @@ export const ReviewHook=()=>{
     const[reviews, setReviews] =useState([]);
 
     useEffect(()=>{
-        fetch('review.json')
+        fetch('reviews.json')
         .then(res=>res.json())
         .then(data=> setReviews(data))
     },[])

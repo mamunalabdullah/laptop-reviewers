@@ -10,7 +10,7 @@ const Review = (props) => {
           src={image}
           alt=""
         />
-        <p className=" justify-center">
+        <p className="justify-center">
           <span className="font-semibold">Name: </span>
           {name}
         </p>

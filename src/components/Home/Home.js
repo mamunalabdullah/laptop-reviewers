@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import Review from '../Reviews/Review';
-import Reviews from '../Reviews/Reviews';
 
 const Home = () => {
     const [reviews, setReviews] = useState([]);
