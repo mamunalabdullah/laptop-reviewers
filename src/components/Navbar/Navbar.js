@@ -4,7 +4,7 @@ import CustomLink from '../CustomLink/CustomLink';
 
 const Navbar = () => {
     return (
-        <nav className='uppercase my-12 text-2xl text-red-500 font-bold flex justify-center'>
+        <nav className='uppercase my-12 text-2xl font-bold flex justify-center'>
             <CustomLink to="/home" className='mx-4'>home</CustomLink>
             <CustomLink to="/review" className='mx-4'>reviews</CustomLink>
             <CustomLink to="/dashboard" className='mx-4'>dashboard</CustomLink>
