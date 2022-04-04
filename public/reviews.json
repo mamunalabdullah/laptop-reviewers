@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Mahmuda",
+        "speech": "This is very good product of Asus",
+        "image": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2021/02/Female_Portrait_1296x728-header-1296x729.jpg?w=1155&h=2268",
+        "rating": 5,
+        "id": 1
+    },
+    {
+        "name": "Ripa",
+        "speech": "It's battery is very powerfull",
+        "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+        "rating": 3,
+        "id": 2
+    },
+    {
+        "name": "Max",
+        "speech": "It gives good performance for heavy softwares",
+        "image": "https://media.istockphoto.com/photos/portrait-of-handsome-latino-african-man-picture-id1007763808?k=20&m=1007763808&s=612x612&w=0&h=q4qlV-99EK1VHePL1-Xon4gpdpK7kz3631XK4Hgr1ls=",
+        "rating": 5,
+        "id": 3
+    },
+    {
+        "name": "David",
+        "speech": "It gives good performance for heavy softwares",
+        "image": "https://blog.hubspot.com/hubfs/habits-of-highly-effective-people-summary-1.jpg",
+        "rating": 5,
+        "id": 4
+    },
+    {
+        "name": "Mim",
+        "speech": "It is good for gaming but it has small issue",
+        "image": "https://www.thestar.com/content/dam/thestar/columnist_logos/francis_angelyn_logo2020.jpg",
+        "rating": 4,
+        "id": 5
+    },
+    {
+        "name": "Milar",
+        "speech": "It gives good performance for heavy softwares",
+        "image": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2017/03/28/Local-Politics/Images/Supreme_Court_Gorsuch_Moments_22084-70c71-0668.jpg?t=20170517",
+        "rating": 5,
+        "id": 1
+    }
+]
